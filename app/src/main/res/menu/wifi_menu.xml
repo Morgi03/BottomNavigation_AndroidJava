@@ -3,6 +3,17 @@
     <item
         android:id="@+id/wifi_on"
         android:title="Wifi On"
+        android:icon="@drawable/wifi_on"
+        />
+    <item
+        android:id="@+id/wifi_off"
+        android:title="Wifi Off"
+        android:icon="@drawable/wifi_off"
+        />
+    <item
+        android:id="@+id/wifi_info"
+        android:title="Wifi Info"
+        android:icon="@drawable/wifi_info"
         />
 
 </menu>
